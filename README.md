@@ -19,8 +19,8 @@ For more details: https://github.com/Luckkana-Phonharath/Budget-Tracking-App
 Built a full-stack grant management platform using .NET and Razor Pages, designed to streamline the submission, review, and allocation process for academic grants. Implemented role-based access control to support distinct user workflows, including submission, approval, and fund distribution.
 Integrated with SQL Server Management Studio (SSMS) to manage users, funds, departments, and college data. Applied unit testing to ensure system reliability and deployed the application to Microsoft Azure for scalable access and performance.
 
-For more details: https://github.com/Luckkana-Phonharath/Grant-Allocation-App
- 
+Skills: .NET Framework · ASP.NET Razor · JavaScript · HTML · C# · Cascading Style Sheets (CSS) · SSMS · Microsoft Excel · Microsoft Azure
+
 ## ✨ Fun Facts ##
 - I love sports and anything outdoors! ⚽⛰️🚴🎾
 - I’m currently learning Microsoft Access and APis.  
