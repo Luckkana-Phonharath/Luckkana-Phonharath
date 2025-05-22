@@ -7,7 +7,7 @@ I’m **Luckkana Phonharath**, a Junior Full-Stack Developer, passionate about b
 Description
  A basic banking application into a fully developed, role-based system using a React frontend and a MongoDB/Node.js/Express backend. The application supports three different roles: Customer, Employee, Administrator. Each with taliored access and features.
 
-For more details: ([https://github.com/LuckyCharms1010/LuckyCharms1010.github.io/tree/main/BankingApp/Banking-App-main])
+For more details: https://github.com/Luckkana-Phonharath/Banking-App
 
  ## [Budget Tracking Application]
 
